@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "Thi thật tốt nhe",
     introTitle: 'Crush',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Wishing you luck and success in your recent exam!`,
     btnIntro: '^^HiHi^^',
     title: 'Bí quyest để thi thật tốt🥰',
     desc: 'Phải thật bình tĩnh, tự tin, à nhớ ôn bài nữa.. Đặc biệt là đọc được cái nàyyy ',
