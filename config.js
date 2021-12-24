@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Em cũng thích ..Mong đến ngày gặp nhau ghê 😘😘',
     mess: 'Anh cũng mong lắm nà 🥰. Thương em nhiều nhiều 😘😘',
     messDesc: 'Đêm giáng sinh năm nay khum còn lạnh lẽo nữa r ha.',
-    btnAccept: 'Đúng r nà <3',
+    btnAccept: 'Đúng r nà 🥰',
     messLink: 'https://www.facebook.com/kevodung.nhat/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
